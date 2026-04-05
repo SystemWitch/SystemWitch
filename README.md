@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning model and pipeline<br>🌱 I’m currently learning ML and LLM's<br>💬 Curious about how AI systems work<br>⚡ I can code all day!
+🔭 I’m currently working on Machine Learning model and pipeline<br>🌱 I’m currently learning about ML and LLM's<br>💬 Curious about how AI systems work<br>⚡ I can code all day!
 
 
 ## 🌐 Socials:
