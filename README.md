@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning about ML and LLM's<br>💬 Curious about how AI systems work<br>
+🌱 I’m currently learning about ML and LLM's<br>💬 Curious about how AI systems work<br>I make automated systems 
 
 
 ## 🌐 Socials:
