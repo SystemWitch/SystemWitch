@@ -1,5 +1,6 @@
-# 💫 About Me:
-🌱 I’m currently learning about ML and LLM's<br>💬 Curious about how AI systems work<br>I make automated systems 
+My recent work spans agentic automation (LangGraph, n8n) for real-world use cases like voice-based order confirmation, automated candidate interviews, and inventory reorder systems, alongside full-stack products — including an inventory management system currently live and sold in commercial production.
+ 
+Tools I work with: Python, React, FastAPI, Docker, AWS, LangGraph/LangChain, ChromaDB, and the standard ML stack (Scikit-learn, TensorFlow, PyTorch).
 
 
 ## 🌐 Socials:
