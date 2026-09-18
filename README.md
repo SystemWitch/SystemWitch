@@ -1,6 +1,23 @@
-My recent work spans agentic automation (LangGraph, n8n) for real-world use cases like voice-based order confirmation, automated candidate interviews, and inventory reorder systems, alongside full-stack products — including an inventory management system currently live and sold in commercial production.
- 
-Tools I work with: Python, React, FastAPI, Docker, AWS, LangGraph/LangChain, ChromaDB, and the standard ML stack (Scikit-learn, TensorFlow, PyTorch).
+## Hi, I'm Darain 👋
+
+I build AI systems — and the production infrastructure that puts them to work.
+
+**Areas of expertise**
+- 🧠 **Deep Learning** — neural network architectures, training pipelines,
+  and model design from first principles
+- 🤖 **LLM Engineering** — working with large language models via APIs,
+  prompt/context design, and structured generation
+- 📚 **RAG Systems** — retrieval-augmented generation pipelines connecting
+  LLMs to real, grounded data sources
+- 🕸️ **Agentic Systems** — autonomous and semi-autonomous workflows,
+  tool-use, and multi-step task automation
+- 🏗️ **Full-Stack Engineering** — production-grade, multi-tenant SaaS
+  systems that serve as the backbone these AI systems run on
+
+**Stack:** Langchain - PyTorch · FastAPI · React/Vite · PostgreSQL (Supabase) · Tailwind CSS
+
+I care about shipping things that actually run in production — not just
+prototypes.
 
 
 ## 🌐 Socials:
