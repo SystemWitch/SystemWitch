@@ -1,4 +1,4 @@
-## Hi, I'm Darain 👋
+## Hi 👋
 
 I build AI systems — and the production infrastructure that puts them to work.
 
